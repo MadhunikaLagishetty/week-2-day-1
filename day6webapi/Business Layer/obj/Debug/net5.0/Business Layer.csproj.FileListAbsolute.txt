@@ -1,0 +1,17 @@
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\Business Layer.deps.json
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CopyComplete
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\refint\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\obj\Debug\net5.0\ref\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Madhunika Lagishetty\source\repos\day6webapi\Business Layer\bin\Debug\net5.0\DataAccessLayer.pdb
